@@ -1,25 +1,34 @@
 # PowerBI_dashboard_project
-This project focuses on analyzing the insurance dataset of Prism Insurance Pvt. Ltd. to uncover valuable business insights. Using Power BI / SQL / Excel. the analysis provides a clear understanding of customer behavior, policy trends, and company performance.
+This project focuses on analyzing the insurance dataset of Prism Insurance Pvt. Ltd. to uncover valuable business insights. Using PowerBI/SQL/Excel. the analysis provides a clear understanding of customer behavior, policy trends, and company performance.
 
 # Key Insights from Dashboard
-Customer Demographics: Distribution of policies by gender and age groups
+# # Customer Demographics: <br /> 
+Distribution of policies by gender and age groups
 
-Policy Analysis: Premium amount by policy type (Auto, Health, Home, Life, Travel)
+# # Policy Analysis: <br /> 
+Premium amount by policy type (Auto, Health, Home, Life, Travel)
 
-Claims Overview: Number of claims by status (Pending, Rejected, Settled)
+# # Claims Overview: <br />
+Number of claims by status (Pending, Rejected, Settled)
 
-Claim Trends: Claim amount segmented by age groups
+# # Claim Trends: <br /> 
+Claim amount segmented by age groups
 
-Policy Status: Active vs. inactive policies distribution
+# # Policy Status: <br /> 
+Active vs. inactive policies distribution
 
-Customer Feedback: Word cloud and sentiment insights from customer reviews
+# # Customer Feedback: <br /> 
+Word cloud and sentiment insights from customer reviews
 
 # Tools & Techniques
-Power BI – Dashboard creation & interactive visualization
+ # # Power BI – <br /> 
+Dashboard creation & interactive visualization
 
-Data Cleaning & Transformation – Preprocessing for accurate analysis
+# #  Data Cleaning & Transformation – <br /> 
+Preprocessing for accurate analysis
 
-Data Analysis – Identifying claim patterns and customer behavior
+ # # Data Analysis – <br />  
+ Identifying claim patterns and customer behavior
 
 # Business Outcomes
 Improved understanding of claim settlement patterns
@@ -33,7 +42,8 @@ Enhanced decision-making for policy design and customer retention.
 # Repository structure
 Data : https://github.com/Sonali1212kri/PowerBI_dashboard_project/blob/main/InsuranceData%20(2).csv <br />
 Dashboard : https://github.com/Sonali1212kri/PowerBI_dashboard_project/blob/main/project%20work.pbix <br />
-Images : https://github.com/Sonali1212kri/PowerBI_dashboard_project/blob/main/prism%20insurance%20Dashboard.png
+Images : <img width="965" height="492" alt="prism insurance Dashboard" src="https://github.com/user-attachments/assets/1d480c2d-bfc8-4e81-9ddb-ed1a451ae86d" />
+
 
 # Feedback & collaboration 
 your feedback is welcome! if you'd like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
